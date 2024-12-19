@@ -1,0 +1,1052 @@
+# Blender 3.6.4 MTL File: 'citybuildingsgreen2.blend'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.024124 0.024124 0.024124
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.324884 0.275582 0.198055
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 1.864671
+Ka 1.000000 1.000000 1.000000
+Kd 0.223485 0.106789 0.072032
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.426694 0.390399 0.292606
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 1000.000000
+Ka 0.763636 0.763636 0.763636
+Kd 0.587594 0.800000 0.772767
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.005
+Ns 349.173584
+Ka 0.825000 0.825000 0.825000
+Kd 0.091958 0.091958 0.091958
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.006
+Ns 396.327484
+Ka 0.768182 0.768182 0.768182
+Kd 0.050053 0.050053 0.050053
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.007
+Ns 496.384247
+Ka 0.790909 0.790909 0.790909
+Kd 0.096514 0.096514 0.096514
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.008
+Ns 437.401794
+Ka 0.790909 0.790909 0.790909
+Kd 0.126594 0.126594 0.126594
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.009
+Ns 437.401794
+Ka 0.881818 0.881818 0.881818
+Kd 0.121249 0.121249 0.121249
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.020212 0.020212 0.020212
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.028447 0.028447 0.028447
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.422828 0.437773 0.352735
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.060029 0.051728 0.038488
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.033
+Ns 1000.000000
+Ka 0.709091 0.709091 0.709091
+Kd 0.238863 0.203043 0.146609
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.036
+Ns 1000.000000
+Ka 0.727273 0.727273 0.727273
+Kd 0.180886 0.154093 0.111799
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.053262 0.045969 0.034322
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.180885 0.168697 0.142191
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.187622 0.178873 0.131923
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.042
+Ns 528.925659
+Ka 1.000000 1.000000 1.000000
+Kd 0.027708 0.035723 0.035723
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.052
+Ns 1000.000000
+Ka 0.752273 0.752273 0.752273
+Kd 0.366588 0.495667 0.495667
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.060
+Ns 483.657013
+Ka 1.000000 1.000000 1.000000
+Kd 0.029696 0.038365 0.038365
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.061
+Ns 1000.000000
+Ka 0.693182 0.693182 0.693182
+Kd 0.366588 0.495667 0.495667
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.071
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.073
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.074
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.082
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.083
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.084
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.085
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.087
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.088
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.089
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.090
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.091
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Maple_Bark/Maple_Bark_2_COLOR.png
+
+newmtl Material.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.056584 0.106023 0.044946
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.283558 0.557832 0.199283
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Tree_Branch
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.013002 0.037838 0.014273
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+
+newmtl Tree_Branch.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.040504 0.136578 0.045185
+Ni 1.450000
+illum 2
+map_Kd /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
+map_d /Users/sarahdeacon/Desktop/design tech/dt project/blender/Tree Branch.png
